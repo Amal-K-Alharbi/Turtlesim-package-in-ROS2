@@ -1,5 +1,7 @@
 # Run turtlesim package in ROS2
 
+after installing Ubuntu MATE on VirtualBox than install ROS humble after that we start installing turtlesim
+
 for using the turtlesim package we start with 
 ```
 sudo apt install ros-humble-turtlesim
@@ -12,7 +14,8 @@ ros2 run turtlesim turtlesim_node
 ```
 to open the turtlesim window
 !()[]
-
+!()[]
+!()[]
 and for controlling, we open another terminal and write
 ```
 source /opt/ros/humble/setup.bash
